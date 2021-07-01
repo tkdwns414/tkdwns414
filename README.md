@@ -2,11 +2,10 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tkdwns414&show_icons=true&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tkdwns414&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tkdwns414&layout=compact&theme=dracula)
 
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dydelemf)](https://solved.ac/dydelemf)  
-BOJ Repo : [이동](https://github.com/tkdwns414/BOJ)  
-BOJ : [dydelemf](https://www.acmicpc.net/user/dydelemf)  
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dydelemf)](https://solved.ac/dydelemf){: target="_blank" }  
+BOJ : [dydelemf](https://www.acmicpc.net/user/dydelemf){: target="_blank" } / [Repo](https://github.com/tkdwns414/BOJ){: target="_blank" }
 
 
 <!--
